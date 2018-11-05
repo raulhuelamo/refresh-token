@@ -1,6 +1,6 @@
 {
   "name": "refresh-token",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Returns a new oauth2 access token when expired.",
   "main": "lib/refresh.js",
   "keywords": [
